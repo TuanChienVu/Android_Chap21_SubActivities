@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Chap21_SubActivities</string>
+    <color name="acbar">#496cc0</color>
+    <integer name="Animation">100</integer>
+</resources>

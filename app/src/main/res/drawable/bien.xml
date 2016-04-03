@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/bien1"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien2"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien3"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien4"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien5"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien6"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien7"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien8"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien9"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien10"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien11"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien12"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien13"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien14"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien15"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien16"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien17"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien18"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien19"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien20"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien21"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien22"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien23"
+        android:duration="@integer/Animation" />
+    <item
+        android:drawable="@drawable/bien24"
+        android:duration="@integer/Animation" />
+
+</animation-list>
